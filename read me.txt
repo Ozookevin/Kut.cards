@@ -1,0 +1,9 @@
+User will submit a url to the website text filed, they will click enter and that url will be sent to the python scipts 
+
+the order of the script is DOC_temp.py and then KO_Cut.py that is because imformation from the KO_Cut is needed for the DOC temp to function.
+
+the doc file will create a word document and from the imformation from KO_Cut. at the same time KO_Cut will make its own DOCX file.
+
+doc temp. then combindeds the word docments together. 
+
+the website should return the file that doc temp composses from the file mergue. 
