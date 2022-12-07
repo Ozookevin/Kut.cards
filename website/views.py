@@ -98,7 +98,7 @@ def home():
 
 
 # calls to summery api
-        response =['https://api.smmry.com/&SM_API_KEY=5BD00B32C7&SM_URL=']
+        response =['']
         response.append(url)
         clean_response_no_spaces = ''.join(response)
         content = requests.get(clean_response_no_spaces)
